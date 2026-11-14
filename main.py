@@ -92,5 +92,6 @@ def menu():
 
 
 # 5. Lancement du programme
+# L'application démarre avec le menu principal.
 if __name__ == "__main__":
     menu()
