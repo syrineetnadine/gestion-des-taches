@@ -95,3 +95,6 @@ def menu():
 # L'application démarre avec le menu principal.
 if __name__ == "__main__":
     menu()
+    print("Merci d'avoir utilisé notre application !")
+
+
